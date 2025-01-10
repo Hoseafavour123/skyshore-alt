@@ -59,7 +59,7 @@ const HeaderBanner = () => {
 
       <div className="absolute inset-y-0 left-0 w-1/2 bg-black bg-opacity-60 flex items-center z-20">
         <div className="p-8 md:p-16 text-white transition-opacity duration-1000">
-          <h1 className="text-3xl md:text-7xl font-bold mb-4">
+          <h1 className="text-3xl md:text-6xl font-bold mb-4">
             {slides[currentSlide].heading}
           </h1>
           <p className="text-lg md:text-2xl leading-relaxed">

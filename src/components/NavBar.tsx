@@ -61,7 +61,7 @@ const NavBar: React.FC = () => {
             >
               About Us
             </Link>
-            <ul className="absolute left-0 mt-1 hidden group-hover:block bg-white border border-t-4 border-t-blue-500 rounded shadow-lg space-y-2 p-3 text-nowrap text-sm font-normal">
+            <ul className="max-md:hidden absolute left-0 mt-1 hidden group-hover:block bg-white border border-t-4 border-t-blue-500 rounded shadow-lg space-y-2 p-3 text-nowrap text-sm font-normal">
               <li className="p-1 border border-blue-200 rounded-md">
                 <Link
                   to="/about/history"
@@ -105,7 +105,7 @@ const NavBar: React.FC = () => {
             >
               Products
             </Link>
-            <ul className="absolute left-0 mt-2 hidden group-hover:block bg-white border border-t-4 border-t-blue-500 rounded shadow-lg space-y-2 p-4 text-nowrap text-sm font-normal ">
+            <ul className="max-md:hidden absolute left-0 mt-2 hidden group-hover:block bg-white border border-t-4 border-t-blue-500 rounded shadow-lg space-y-2 p-4 text-nowrap text-sm font-normal ">
               {products.map((product, id) => (
                 <li
                   key={id}
