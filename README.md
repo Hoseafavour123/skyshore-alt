@@ -1,1 +1,1 @@
-# skyshore-alt
+# Skyshore
