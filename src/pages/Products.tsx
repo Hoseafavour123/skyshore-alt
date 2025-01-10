@@ -6,7 +6,7 @@ import { vid12 } from '../assets/videos/Skyshore Videos'
 const Products: React.FC = () => {
   return (
     <div>
-      <div className="relative h-screen w-full overflow-hidden mb-20">
+      <div className="relative h-[500px] w-full overflow-hidden mb-20">
         {/* Background Video */}
         <video
           className="absolute top-0 left-0 w-full h-full object-cover"
@@ -23,13 +23,6 @@ const Products: React.FC = () => {
         {/* Text Content */}
         <div className="relative flex flex-col justify-center items-center h-full text-white text-center px-4">
           <h1 className="text-4xl md:text-6xl font-bold mb-4">Our Products</h1>
-          <div className="flex max-md:items-center max-md:justify-center gap-3 flex-wrap">
-            {products.map((product, id) => (
-              <div key={id}>
-                <img src={product.imageUrl} alt="" className="w-32 h-32" />
-              </div>
-            ))}
-          </div>
         </div>
       </div>
 
