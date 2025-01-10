@@ -4,8 +4,7 @@ import {
   lpg,
   cng,
   bitumen,
-  lubricants,
-  img1,
+  lubricants
 } from './assets/images'
 
 import {
@@ -21,7 +20,7 @@ import {
 type Product = {
   id: number
   imageUrl: string
-  title?: string
+  title: string
   description?: string
   subProduct?: string[]
 }
