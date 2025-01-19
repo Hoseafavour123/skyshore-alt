@@ -32,6 +32,7 @@ import lub2 from './8e1d517eb08d46eb78073acfb4de854c.jpg'
 import autoOil from './61ab6821c46168589d215302d103cc5f.jpg'
 import pms from './c1de9e0caf707c78c9554ad7c86258be.jpg'
 import lng2 from './dcf31558d17234ef5d74365790c70390.jpg'
+import petrol2 from './IMG-20250119-WA0073.jpg'
 
 import aboutOne from './about1.jpg'
 import aboutTwo from './about2.jpg'
@@ -70,6 +71,7 @@ export {
     autoOil,
     pms,
     lng2,
+    petrol2,
 
     aboutOne,
     aboutTwo,

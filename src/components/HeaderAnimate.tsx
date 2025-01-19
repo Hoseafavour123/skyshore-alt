@@ -12,7 +12,7 @@ const HeaderBanner = () => {
       link: '/about'
     },
     {
-      image: backg1,
+      image: backg3,
       heading: 'Pioneering the Future of Energy',
       text: 'Pioneering the future of energy with innovative solutions',
       buttonLabel: 'Our Products',
@@ -26,7 +26,7 @@ const HeaderBanner = () => {
       link: '/contact'
     },
      {
-      image: backg3,
+      image: backg1,
       heading: 'Enjoy Maximum Performance',
       text: 'With our range of lubricants, you will enjoy maximum performance, our lubricants are engineered for excellence and powered by innovation',
       buttonLabel: 'Get Started',

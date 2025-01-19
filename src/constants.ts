@@ -1,11 +1,11 @@
 import {
 
   lub2,
-  pms,
   lng2,
   autoOil,
   lpg2,
-  ago
+  ago,
+  petrol2
 } from './assets/images'
 
 import {
@@ -64,7 +64,7 @@ export const members: Member[] = [
 export const products: Product[] = [
   {
     id: 1,
-    imageUrl: pms,
+    imageUrl: petrol2,
     title: 'Petroleum Products',
     description:
       ' We leverage on the strength of our flagship company Skyshore Shipping & Energy Limited  (SSE) who is an importer of large volume of products within West Africa. ',
