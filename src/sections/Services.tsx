@@ -13,7 +13,7 @@ const Services: React.FC = () => {
         </div>
 
         <div className="mt-5 bg-gradient-to-r from-purple-200 via-blue-200 to-white p-12 rounded-xl shadow-lg">
-          <div className="max-w-6xl mx-auto text-white">
+          <div className="max-w-9xl mx-auto text-white">
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:p-6">
               {products.map((product, id) => (
                 <ServiceCard

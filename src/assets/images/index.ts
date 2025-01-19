@@ -21,6 +21,23 @@ import shore1 from './shore1.jpg'
 import shore2 from './shore2.jpg'
 import shore3 from './shore3.jpg'
 
+import backg1 from './WEB Image.png'
+import backg2 from './istockphoto-1401882853-612x612.jpg'
+import backg3 from './a010e7b84c4726b6effb92a1aa128290.jpg'
+
+
+import ago from './istockphoto-1456813990-612x612.jpg'
+import lpg2 from './istockphoto-1487154996-612x612 (1).jpg'
+import lub2 from './8e1d517eb08d46eb78073acfb4de854c.jpg'
+import autoOil from './61ab6821c46168589d215302d103cc5f.jpg'
+import pms from './c1de9e0caf707c78c9554ad7c86258be.jpg'
+import lng2 from './dcf31558d17234ef5d74365790c70390.jpg'
+
+import aboutOne from './about1.jpg'
+import aboutTwo from './about2.jpg'
+import aboutThree from './about3.jpg'
+import aboutFour from './about4.jpg'
+
 export {
     constructionmen,
     constructionhat,
@@ -41,5 +58,21 @@ export {
 
     shore1,
     shore2,
-    shore3
+    shore3,
+
+    backg1,
+    backg2,
+    backg3,
+
+    ago,
+    lpg2,
+    lub2,
+    autoOil,
+    pms,
+    lng2,
+
+    aboutOne,
+    aboutTwo,
+    aboutThree,
+    aboutFour
 }

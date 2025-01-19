@@ -17,8 +17,8 @@ const NavBar: React.FC = () => {
         {/* Logo Section */}
         <div className="flex items-center justify-center">
           <img src={logo} width={80} height={80} alt="" className='mb-4'/>
-          <div className="flex flex-col gap-0 text-gray-700 mt-6 -ml-4">
-            <span className="text-2xl text-blue-700 font-bold">SKYSHORE </span>{' '}
+          <div className="flex flex-col gap-0 text-gray-700 mt-6 -ml-3">
+            <span className="text-4xl text-blue-700 font-bold">SDM LIMITED</span>{' '}
             <span className="text-[12px] text-blue-800 font-bold">Downstream and Marketing Limited </span>
           </div>
         </div>
