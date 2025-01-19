@@ -1,10 +1,4 @@
 import {
-  chemicals,
-  petroleum,
-  lpg,
-  cng,
-  bitumen,
-  lubricants,
 
   lub2,
   pms,
