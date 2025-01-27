@@ -21,7 +21,7 @@ import shore1 from './shore1.jpg'
 import shore2 from './shore2.jpg'
 import shore3 from './shore3.jpg'
 
-import backg1 from './WEB Image.png'
+import backg1 from './litre.jpg'
 import backg2 from './istockphoto-1401882853-612x612.jpg'
 import backg3 from './a010e7b84c4726b6effb92a1aa128290.jpg'
 
