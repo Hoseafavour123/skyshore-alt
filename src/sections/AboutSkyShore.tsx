@@ -38,7 +38,7 @@ const AboutSkyShore: React.FC = () => {
         <p className="text-gray-600 leading-relaxed">
           
           Driving Innovation in the Downstream Sector
-Skyshore Downstream and Marketing (SDM) is a dynamic subsidiary of Skyshore Group Ltd (SGL), strategically positioned to redefine the downstream oil and gas industry. With a focus on efficiency, innovation, and sustainable solutions, we specialize in the marketing, distribution, and retail of refined petroleum products across Africa and beyond.
+Skyshore Downstream and Marketing (SDM) is a dynamic subsidiary of Skyshore Group Ltd (SGL), strategically positioned to redefine the downstream oil and gas industry. <br/>With a focus on efficiency, innovation, and sustainable solutions, we specialize in the marketing, distribution, and retail of refined petroleum products across Africa and beyond.
 <br/>
 Incorporated in Nigeria under the "Companies and Allied Matters Act 1990," SDM leverages decades of industry expertise from its parent group, Skyshore Group Ltd, to deliver value-driven services. We ensure the seamless supply of energy solutions, bridging the gap between production and end-users while adhering to the highest global standards.
           <p className='text-end text-black'>
