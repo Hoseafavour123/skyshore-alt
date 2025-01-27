@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+important React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { HiMenu, HiX } from 'react-icons/hi' // Hamburger and close icons
 import { logo } from '../assets/icons'
@@ -19,7 +19,7 @@ const NavBar: React.FC = () => {
           <img src={logo} width={80} height={80} alt="" className='mb-4'/>
           <div className="flex flex-col gap-0 text-gray-700 mt-6 -ml-3">
             <span className="text-4xl text-blue-700 font-bold">SDM LIMITED</span>{' '}
-            <span className="text-[9.5px] text-blue-800 font-bold">Skyshore Downstream and Marketing Limited </span>
+            <span className="text-[9.5px] text-blue-900 font-bold">Skyshore Downstream and Marketing Limited </span>
           </div>
         </div>
         {/* Hamburger Menu for Mobile */}
