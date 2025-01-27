@@ -27,7 +27,7 @@ const Experience: React.FC = () => {
           </p>
           <br />
           <p>
-            Skyshore Downstream was carved out of SkyShore Shipping and Energy
+            Skyshore Downstream was carved out of Skyshore Shipping and Energy
             Ltd (SSL), another member of Skyshore Group Ltd.
           </p>
           <button className="mt-4 bg-blue-800 text-white px-5 py-2 rounded-lg hover:bg-blue-600 transition-colors">
